@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-pulse",
+  "title": "Infinity Pulse",
+  "emoji": "\ud83d\udc93",
+  "purpose": "Tracks the pulse of every repo. Build status, page health, updates, dictionary coverage, token value.",
+  "tools": [
+    "Health Dashboard",
+    "Activity Feed",
+    "Alert System",
+    "Uptime Monitor"
+  ],
+  "color": "#f44336",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
